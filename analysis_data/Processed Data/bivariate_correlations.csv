@@ -1,0 +1,6 @@
+,0
+Bed Utilization,spearman rho: 0.39 (p=0.0064) pearson r: 0.38 (p=0.0070)
+Surgical Intensity,spearman rho: 0.39 (p=0.0059) pearson r: 0.52 (p=0.0001)
+Nursing Resources,spearman rho: -0.14 (p=0.3494) pearson r: -0.18 (p=0.2216)
+Percentage Staffed,spearman rho: 0.24 (p=0.0961) pearson r: 0.28 (p=0.0509)
+Staffed Occupancy,spearman rho: 0.18 (p=0.2082) pearson r: 0.19 (p=0.2063)

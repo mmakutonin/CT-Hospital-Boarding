@@ -1,0 +1,49 @@
+hospital_slug,year,CCEP_name,patients_treated,patients_admitted,avg_time_to_admit,boarding_percentage,inpatient_surgical_cases,outpatient_surgical_cases,total_nursing_hours,patient_days_medical_surgical,admissions_medical_surgical,staffed_beds_medical_surgical,available_beds_medical_surgical,total_inpatient_days
+bridgeport-hospital,2024,Bridgeport Hospital,118491,17130,298.84,32.6,3453,13519,915.35,89894.0,20386.0,247.0,306.0,128399.0
+bridgeport-hospital,2025,Bridgeport Hospital,116754,17763,284.45,39.2,3514,13975,932.2,92160.0,20604.0,253.0,305.0,127302.0
+charlotte-hungerford-hospital,2024,Charlotte Hungerford Hospital,44235,4963,330.91,53.3,767,3229,396.4,18236.0,4983.0,55.0,58.0,28873.0
+charlotte-hungerford-hospital,2025,Charlotte Hungerford Hospital,45279,4241,502.07,37.3,809,3020,390.9,17948.0,4807.0,57.0,63.0,28114.0
+danbury-hospital,2024,Danbury Hospital,65036,10960,310.04,22.4,3876,8223,720.4,67023.0,14954.0,229.0,264.0,95209.0
+danbury-hospital,2025,Danbury Hospital,86269,14112,312.17,33.2,3904,8583,767.4,71699.0,16096.0,249.0,274.0,100663.0
+day-kimball-hospital,2024,Day Kimball Healthcare,19340,2766,370.74,40.6,257,2164,151.2,8230.0,1920.0,25.0,64.0,13419.0
+day-kimball-hospital,2025,Day Kimball Healthcare,19526,3076,338.87,40.1,280,2423,162.1,9368.0,1985.0,26.0,64.0,15895.0
+greenwich-hospital,2024,Greenwich Hospital,42417,5378,188.61,13.6,1571,7713,625.6,30791.0,7430.0,85.0,136.0,49834.0
+greenwich-hospital,2025,Greenwich Hospital,41761,5906,197.65,10.8,1372,7684,594.69,26602.0,6867.0,73.0,130.0,47332.0
+griffin-hospital,2024,Griffin Health,34234,4579,372.4,33.9,1361,4758,370.1,22381.0,5392.0,62.0,118.0,32282.0
+griffin-hospital,2025,Griffin Health,34392,4588,349.08,36.6,1300,4954,375.35,22987.0,5352.0,63.0,118.0,32766.0
+hartford-hospital,2024,Hartford Hospital,108280,28193,387.65,63.1,13048,26337,2130.8,182101.0,36568.0,529.0,546.0,288161.0
+hartford-hospital,2025,Hartford Hospital,109166,28322,533.46,62.0,13235,26480,2117.05,187665.0,36845.0,562.0,543.0,293549.0
+john-dempsey-hospital,2024,UConn John Dempsey Hospital,58376,7787,351.55,8.7,2908,11301,940.7,41798.0,9552.0,157.0,157.0,62492.0
+john-dempsey-hospital,2025,UConn John Dempsey Hospital,60377,7158,334.78,6.8,2884,11736,1013.73,43953.0,10355.0,171.0,180.0,65888.0
+johnson-memorial-hospital,2024,Johnson Memorial Hospital,18513,1244,413.75,20.0,131,1699,81.8,3455.0,1162.0,21.0,21.0,8713.0
+johnson-memorial-hospital,2025,Johnson Memorial Hospital,18570,1799,324.61,23.9,64,1037,97.6,3334.0,1117.0,21.0,21.0,8452.0
+lawrence-and-memorial-hospital,2024,Lawrence + Memorial Hospital,88076,7878,213.55,26.0,1594,6454,439.1,49957.0,10402.0,137.0,172.0,67244.0
+lawrence-and-memorial-hospital,2025,Lawrence + Memorial Hospital,87573,8391,230.91,33.9,1363,6261,451.7,47238.0,10216.0,130.0,173.0,63622.0
+manchester-memorial-hospital,2024,Manchester Memorial Hospital,36522,6359,363.13,26.9,834,3501,328.2,19963.0,4991.0,79.0,138.0,51559.0
+manchester-memorial-hospital,2025,Manchester Memorial Hospital,50929,7583,345.72,32.2,729,3159,323.8,18397.0,4574.0,79.0,138.0,47950.0
+middlesex-hospital,2024,Middlesex Health,82676,6455,224.12,33.9,2000,5639,582.5,36094.0,9272.0,142.0,144.0,54571.0
+middlesex-hospital,2025,Middlesex Health,84057,6738,224.39,28.0,1919,5981,550.8,37311.0,9109.0,146.0,161.0,55510.0
+midstate-medical-center,2024,MidState Medical Center,52898,7131,303.94,52.7,2677,8406,624.3,37070.0,9157.0,109.0,122.0,43536.0
+midstate-medical-center,2025,MidState Medical Center,53935,7215,464.68,52.8,2677,8982,673.0,37939.0,9216.0,111.0,121.0,44397.0
+norwalk-hospital,2024,Norwalk Hospital,45756,6243,249.26,21.9,1402,3175,368.3,28959.0,7897.0,95.0,101.0,44486.0
+norwalk-hospital,2025,Norwalk Hospital,45806,8250,254.25,27.5,1434,3122,372.87,29218.0,8179.0,99.0,101.0,44273.0
+saint-francis-hospital-and-medical-center,2024,Saint Francis Hospital,67264,11499,339.92,62.2,12344,20410,1130.8,79035.0,17345.0,313.0,313.0,118483.0
+saint-francis-hospital-and-medical-center,2025,Saint Francis Hospital,64598,14444,339.88,58.4,10018,20026,943.6,79360.0,16190.0,313.0,313.0,121021.0
+saint-mary-s-hospital,2024,Saint Mary's Hospital,56602,5485,366.3,55.3,3093,10179,392.7,23479.0,7693.0,111.0,111.0,34546.0
+saint-mary-s-hospital,2025,Saint Mary's Hospital,54159,5298,425.71,52.3,2565,10146,380.5,26495.0,6701.0,111.0,111.0,37364.0
+saint-vincent-s-medical-center,2024,St. Vincent's Medical Center,64771,8185,307.91,21.5,3345,6331,692.9,53963.0,10382.0,188.0,188.0,95025.0
+saint-vincent-s-medical-center,2025,St. Vincent's Medical Center,64968,8172,432.62,16.5,3579,6458,661.4,52168.0,11115.0,157.0,191.0,94300.0
+sharon-hospital,2024,Sharon Hospital,13097,938,232.29,8.8,118,1159,87.3,3157.0,911.0,18.0,28.0,8474.0
+sharon-hospital,2025,Sharon Hospital,13276,1752,240.16,8.2,112,1151,106.0,3573.0,990.0,18.0,28.0,8720.0
+stamford-hospital,2024,Stamford Health,63356,7090,259.6,24.6,2806,11428,1100.0,49908.0,9163.0,137.0,188.0,82313.0
+stamford-hospital,2025,Stamford Health,65112,8534,257.48,10.6,2500,11573,1174.1,49302.0,9777.0,136.0,188.0,80237.0
+the-hospital-of-central-connecticut,2024,The Hospital of Central Connecticut,85546,10075,346.94,29.2,2550,6741,1032.2,52865.0,11520.0,159.0,188.0,82410.0
+the-hospital-of-central-connecticut,2025,The Hospital of Central Connecticut,87141,9007,395.03,22.4,2581,6782,1094.9,53648.0,11554.0,162.0,195.0,83227.0
+waterbury-hospital,2024,Waterbury Health,37145,7340,575.66,25.6,1549,3155,310.55,39107.0,7696.0,157.0,157.0,58014.0
+waterbury-hospital,2025,Waterbury Health,35081,6947,403.6,31.2,1457,2861,328.6,41588.0,7255.0,157.0,157.0,61174.0
+william-w-backus-hospital,2024,The William W. Backus Hospital,80235,8016,303.44,54.5,2614,7526,487.4,44067.0,9308.0,138.0,139.0,58008.0
+william-w-backus-hospital,2025,The William W. Backus Hospital,79768,6636,502.84,36.7,2640,7923,502.8,43376.0,9288.0,138.0,138.0,57745.0
+windham-community-memorial-hospital,2024,Windham Hospital,33434,1927,281.68,31.8,226,1440,118.6,7875.0,2187.0,46.0,58.0,8019.0
+windham-community-memorial-hospital,2025,Windham Hospital,33334,1319,393.37,30.7,270,1407,124.4,7989.0,2273.0,42.0,58.0,8133.0
+yale-new-haven-hospital,2024,Yale New Haven Hospital,233597,38057,345.39,46.7,13500,35321,4092.2,309710.0,48972.0,849.0,995.0,472539.0
+yale-new-haven-hospital,2025,Yale New Haven Hospital,228586,41980,325.27,47.9,13547,36652,4158.35,302098.0,48507.0,828.0,988.0,469393.0
