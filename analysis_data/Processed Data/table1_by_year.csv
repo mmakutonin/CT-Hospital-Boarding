@@ -1,0 +1,18 @@
+,2024 Statistics Mean (95% CI),2025 Statistics Mean (95% CI),Two-Sided P-Value
+ED Volume,"63230 (45737, 80723)","64444 (47267, 81621)",0.92
+ED Admissions,"8777 (5550, 12005)","9319 (5825, 12814)",0.82
+Average ED Time to Admission (hours),"324 (293, 355)","351 (315, 387)",0.28
+Boarding Percentage,"33.59 (27.35, 39.83)","32.16 (26.23, 38.09)",0.75
+Bed Utilization,"0.66 (0.59, 0.73)","0.66 (0.59, 0.73)",0.97
+Available Med/Surg Beds,"191 (112, 270)","193 (115, 271)",0.97
+Med/Surg Patient Days,"52426 (26918, 77935)","52725 (27506, 77945)",0.99
+Med/Surg Admissions,"10917 (6671, 15163)","10902 (6659, 15145)",1.00
+Med/Surg Staffed Beds,"166 (96, 236)","167 (96, 237)",0.99
+Surgical Bed Demand,"14.16 (11.01, 17.32)","13.34 (10.58, 16.11)",0.70
+Inpatient Surgical Cases,"3146 (1630, 4662)","3023 (1573, 4473)",0.91
+Outpatient Surgical Cases,"8544 (5361, 11726)","8625 (5349, 11902)",0.97
+Nurse Staffing Ratio,"3.67 (3.25, 4.08)","3.72 (3.27, 4.17)",0.87
+Total Nursing Full-Time Equivalents,"733 (407, 1058)","739 (409, 1069)",0.98
+Total Inpatient Days,"80478 (41455, 119502)","80905 (41910, 119900)",0.99
+Staffed-Bed Proportion,"0.85 (0.78, 0.92)","0.83 (0.76, 0.90)",0.79
+Staffed-Bed Occupancy,"0.79 (0.72, 0.87)","0.81 (0.74, 0.87)",0.82

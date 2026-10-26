@@ -1,6 +1,8 @@
 hospital_slug,year,CCEP_name,patients_treated,patients_admitted,avg_time_to_admit,boarding_percentage,inpatient_surgical_cases,outpatient_surgical_cases,total_nursing_hours,patient_days_medical_surgical,admissions_medical_surgical,staffed_beds_medical_surgical,available_beds_medical_surgical,total_inpatient_days
 bridgeport-hospital,2024,Bridgeport Hospital,118491,17130,298.84,32.6,3453,13519,915.35,89894.0,20386.0,247.0,306.0,128399.0
 bridgeport-hospital,2025,Bridgeport Hospital,116754,17763,284.45,39.2,3514,13975,932.2,92160.0,20604.0,253.0,305.0,127302.0
+bristol-health,2024,Bristol Health,30849,3753,368.59,30.0,637,3780,195.5,11536.0,3682.0,63.0,63.0,25347.0
+bristol-health,2025,Bristol Health,30686,3756,352.6,24.8,822,3260,177.5,12710.0,3569.0,63.0,63.0,25599.0
 charlotte-hungerford-hospital,2024,Charlotte Hungerford Hospital,44235,4963,330.91,53.3,767,3229,396.4,18236.0,4983.0,55.0,58.0,28873.0
 charlotte-hungerford-hospital,2025,Charlotte Hungerford Hospital,45279,4241,502.07,37.3,809,3020,390.9,17948.0,4807.0,57.0,63.0,28114.0
 danbury-hospital,2024,Danbury Hospital,65036,10960,310.04,22.4,3876,8223,720.4,67023.0,14954.0,229.0,264.0,95209.0
